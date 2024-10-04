@@ -18,7 +18,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://gavin-chen.top/link/
+- link: https://blog.cancin.cn/link/
   theme: butterfly
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
